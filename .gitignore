@@ -1,0 +1,11 @@
+**/__pycache__
+
+output*/*
+results/*
+*.png
+*.bp
+*.out
+*.npz
+
+# Reference results are tracked on purpose, figures included.
+!reference_output/**

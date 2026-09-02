@@ -1,0 +1,6 @@
+# Pinned to the versions the published results were produced with.
+# dolfinx, mpi4py, petsc4py, ufl and gmsh all come from the base image and are
+# deliberately not listed here -- pip must not shadow them.
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.10.9
